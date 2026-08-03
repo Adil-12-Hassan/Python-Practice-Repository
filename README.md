@@ -6,13 +6,13 @@ This repository serves as a structured learning resource covering Python fundame
 
 ## Features
 
-- 📘 Beginner to Advanced Python Concepts
-- 🧩 Hundreds of Practice Problems
-- 💡 Well-Explained Solutions
-- 📝 Concept Notes and Examples
-- 🚀 Mini Projects
-- 🔄 Regular Updates and Improvements
-- 📂 Organized Folder Structure
-- 🎯 Interview & Problem-Solving Practice
+- Beginner to Advanced Python Concepts
+- Hundreds of Practice Problems
+- Well-Explained Solutions
+- Concept Notes and Examples
+- Mini Projects
+- Regular Updates and Improvements
+- Organized Folder Structure
+- Interview & Problem-Solving Practice
 
 > **Note:** This repository is continuously maintained and expanded with new exercises, projects, and learning resources over time.
