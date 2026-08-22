@@ -2,7 +2,7 @@
 
 Thank you for contributing to **Python Practice Repository**!
 
-This repository is a structured Python learning resource for beginners, intermediate learners, and experienced developers who want to practice or revise Python. Contributions are welcome as long as they are useful, educational, and follow the existing structure.
+This repository provides a structured Python learning resource for beginners, intermediate learners, and experienced developers looking to practice or revise Python. We welcome contributions that are useful, educational, and follow the existing structure.
 
 > **Goal:** Every contribution should help someone learn, practice, or improve Python.
 
